@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">2024.1.S5.0 - DSG005 - Positive Balance</string>
+    <string name="auth_username">usuário</string>
+    <string name="auth_password">senha</string>
+    <string name="auth_login">entrar</string>
+    <string name="auth_logo_description">logomarca</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
